@@ -1,0 +1,5 @@
+com\wiltech\websocket\WebsocketServer.class
+com\wiltech\websocket\WebSocketsSessionRegistry.class
+com\wiltech\websocket\WebsocketClient.class
+com\wiltech\websocket\test\WebSocketServerEndpoint.class
+com\wiltech\websocket\Template.class
