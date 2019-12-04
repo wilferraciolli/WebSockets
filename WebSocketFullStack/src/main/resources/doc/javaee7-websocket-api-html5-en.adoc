@@ -1,0 +1,2 @@
+the Asciidoc version is available here : 
+* https://github.com/mgreau/mgreau.github.io/tree/develop/posts
